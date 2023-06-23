@@ -1,5 +1,0 @@
-FundMeTest:testFailWithoutEnoughEth() (gas: 3047)
-FundMeTest:testWithdowFromMultipleFunders() (gas: 442498)
-FundMeTest:testWithdrowFromSingalfunders() (gas: 14205)
-FundMeTest:testdemo() (gas: 5449)
-FundMeTest:testgetVersion() (gas: 10672)
